@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<academic-paper xmlns:f="/a/proper/namespace/here">
+	<page-body>
+		&lt;div id="page"&gt;
+		&lt;h2&gt;Blogs&lt;/h2&gt;
+		&lt;p&gt;
+		&lt;strong&gt;Example user:&lt;/strong&gt; News correspondent.
+		&lt;/p&gt;
+		&lt;p&gt;
+		Blogs, a contraction of “web log” – are a mechanism for web publishing which are becoming increasingly popular as they allow one click publishing of content and the wide availability of blogging software and services, such as Wordpress or Blogspot. (Blood, 2004).
+		&lt;/p&gt;
+		&lt;p&gt;
+		Part of the reason, blogging is so popular is that it offers a one-click kind of publishing, we does not rely on the more cumbersome uploading of files via &lt;acronym title="File Transfer Protocol"&gt;FTP&lt;/acronym&gt; or a similar method.
+		&lt;/p&gt;
+		&lt;p&gt;
+		Blogs allow users to quickly write an entry tor post, drag and drop any additional content such as pictures and insert links and typically allow a selection of templates to organise the layout. All this without needing to necessarily known HTML or needing to known expensive &lt;acronym title="What You See Is What You Get"&gt;WYSIWYG&lt;/acronym&gt; software such as Dreamweaver. (Oglens, 2011).
+		&lt;/p&gt;
+		&lt;p&gt;
+		Blogs are well suited for people who need to publish content to the web on a regular basis. For that reason, a good example user would be a news correspondent, who often has stories to report. Through the one click-publishing mechanism offered by typical blogging software, she can easily add new reports without needing to worry about cumbersome uploading practices associated with the updating of traditional websites.  
+		&lt;/p&gt;
+		&lt;p&gt;
+		For propagation to her news stories, the news correspondent could publish links to a micro-blogging service such as Twitter.
+		&lt;/p&gt;
+		&lt;/div&gt;
+	</page-body>
+</academic-paper>

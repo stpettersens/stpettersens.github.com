@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<academic-paper xmlns:f="/a/proper/namespace/here">
+	<page-body>
+		&lt;div id="page"&gt;
+		&lt;h2&gt;Social networks&lt;/h2&gt;
+		&lt;p&gt;
+		&lt;strong&gt;Example user:&lt;/strong&gt; Individuals, companies.
+		&lt;/p&gt;
+		&lt;p&gt;
+		Social networks are websites with a focus on social interaction and activity. They typically offer a hub for friends to communicate with another through e-mail-like messages, integrated instant messaging or share photographs and play games socially.
+		&lt;/p&gt;
+		&lt;p&gt;
+		Since it was founded by Mark Zuckerberg in 2004, Facebook has grown to become (one of) the most widely used social network services today. (Carlson, 2010).
+		&lt;/p&gt;
+		&lt;p&gt;
+		Although generally secure, Facebook has been criticised for its privacy policies and as any other social network suffers from the potential for misuse such as identity impersonation and fraud. (Dwyer et al, 2007).
+		&lt;/p&gt;
+		&lt;p&gt;
+		Facebook is used by many people across the globe, and increasingly by companies, as well as individuals, who create pages for their products to gain marketing exposure.
+		&lt;/p&gt;
+		&lt;/div&gt;
+	</page-body>
+</academic-paper>

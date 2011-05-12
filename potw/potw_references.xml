@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<academic-paper xmlns:f="/a/proper/namespace/here">
+	<title>References</title>
+	<page-body>
+	<refset type="harvard">
+		<ref type="webpage">
+			<author>38 Degrees.</author>
+			<date>2009</date>
+			<title>About 38 Degrees.</title>
+			<source>38 Degrees website.</source>
+			<online>true</online>
+			<url>http://38degrees.org.uk/pages/about38degrees</url>
+			<accessed>07 May 2011</accessed>
+		</ref>
+		<ref type="journal">
+			<author>Blood, R.</author>
+			<date>2004</date>
+			<title>
+			 How blogging software reshapes the online community.
+			</title>
+			<source>Communications of the ACM – The Blogosphere.</source>
+			<volume>47</volume>
+			<issue>12</issue>
+			<online>true</online>
+			<url>http://portal.acm.org/citation.cfm?id=1035134.1035165</url>
+			<accessed>09 May 2011</accessed>
+		</ref>
+		<ref type="webpage">
+			<author>Digg, Inc.</author>
+			<date>2009</date>
+			<title>Digg Developers.</title>
+			<source>Digg website.</source>
+			<online>true</online>
+			<url>http://developers.digg.com</url>
+			<accessed>07 May 2011</accessed>
+		</ref>
+		<ref type="webpage">
+			<author>Carlson, N.</author>
+			<date>March 2010</date>
+			<title>At Last -- The Full Story of How Facebook Was Founded.</title>
+			<source>Business Insider.</source>
+			<online>true</online>
+			<accessed>10 May 2011</accessed>
+		</ref>
+		<ref type="webpage">
+			<author>Cohen, P.</author>
+			<date>February 2008</date>
+			<title>At Harvard, a Proposal to Publish Free on Web.</title>
+			<source>The New York Times.</source>
+			<online>true</online>
+			<url>http://msl1.mit.edu/furdlog/docs/nytimes/2008-02-12_nytimes_open_access_harvard.pdf</url>
+			<accessed>08 May 2011</accessed>
+		</ref>
+		<ref type="webpage">
+			<author>Dywer, C.</author>
+			<author>Hiltz, S.</author>
+			<author>Passerini, K.</author>
+			<date>2007</date>
+			<title>
+			 Trust and Privacy Concern within Social Networking Sites: A Comparison of Facebook and MySpace.
+			</title>
+			<source>AMCIS 2007 Proceedings.</source>
+			<online>true</online>
+			<url>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.148.9388&amp;rep=rep1&amp;type=pdf</url>
+			<accessed>05 May 2011</accessed>
+		</ref>
+		<ref type="webpage">
+			<author>Golder, S.</author>
+			<author>Wilkinson, D.</author>
+			<author>Huberman, B.</author>
+			<date>2007</date>
+			<title>Rhythms of Social Interaction: Messaging Within a Massive Online Network.</title>
+			<source>Communities and Technologies 2007.</source>
+			<online>true</online>
+			<url>http://www.springerlink.com/content/w531741805016688</url>
+			<accessed>06 May 2011</accessed>
+		</ref>
+		<ref type="webpage">
+			<author>Java, A.</author>
+			<author>Song, X.</author>
+			<author>Finin, T.</author>
+			<author>Tseng, B.</author>
+			<date>2007</date>
+			<title>Why We Twitter: Understanding Micro blogging Usage and Communities.</title>
+			<source>
+			 Proceedings of the 9th WebKDD and 1st SNA-KDD 2007 workshop on Web mining and social network analysis.
+			</source>
+			<online>true</online>
+			<url>http://portal.acm.org/citation.cfm?id=1348556</url>
+			<accessed>05 May 2011</accessed>
+		</ref>
+		<ref type="webpage">
+			<author>Jungherr, A.</author>
+			<date>2009</date>
+			<title>The Digiactive Guide to Twitter for Activism.</title>
+			<source>Digiactive.com, Creative Commons Licensed e-Book.</source>
+			<online>true</online>
+			<url>
+			http://www.tavaana.org/uploads/2071502000341267128282670/files/Guide%20to%20Twitter%20for%20Activism%20-%20PDF%20-%20English.pdf
+			</url>
+			<accessed>07 May 2011</accessed>
+		</ref>
+		<ref type="webpage">
+			<author>Pixel Tucker Pty Ltd.</author>
+			<date>2011</date>
+			<title>MetroTwit</title>
+			<source>MetroTwit website.</source>
+			<online>true</online>
+			<url>http://www.metrotwit.com</url>
+			<accessed>10 May 2011</accessed>
+		</ref>
+		<ref type="webpage">
+			<author>Twitter.</author>
+			<date>2011</date>
+			<title>API documentation.</title>
+			<source>Twitter website.</source>
+			<online>true</online>
+			<url>http://dev.twitter.com/doc</url>
+			<accessed>10 May 2011</accessed>
+		</ref>
+	</refset>
+	</page-body>
+</academic-paper>

@@ -1,0 +1,59 @@
+/*
+	Publishing on the Web assignment site stylesheet.
+	Copyright (c) 2011 Sam Saint-Pettersen.
+*/
+
+body {
+	font-family: Helvetica, Verdana san-serif;
+	font-size: 10pt;
+}
+div#description {
+	margin-top: 5em;
+	margin-left: auto;
+	text-align: center;
+}
+div#navigation {
+	margin-top: 5em;
+	margin-left: 3em;
+	float: left;
+}
+div#academic-page {
+	padding-top: 5em;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+div#footer {
+	padding-top: 20em;
+	margin: auto;
+	text-align: center;
+}
+ul#navi {
+	font-size: 12pt;
+	list-style: none;
+}
+#ref {
+	list-style: none;
+}
+li {
+	padding-top: 1.6em;
+}
+a {
+	color: #000000;
+	text-decoration: none;
+	border-bottom: 1px dotted #000000;
+}
+a:hover {
+	border-bottom: none;
+}
+div#page {
+	padding-left: 20em;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+	text-align: left;
+}
+acronym {
+	font-weight: bold;
+	color: #4C4646;
+}

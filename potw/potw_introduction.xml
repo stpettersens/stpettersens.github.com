@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<academic-paper xmlns:f="/a/proper/namespace/here">
+	<page-body>
+		&lt;div id="page"&gt;
+		&lt;h2&gt;Introduction&lt;/h2&gt;
+		&lt;p&gt;
+		This report looks at &lt;em&gt;four&lt;/em&gt; different methods of publishing on the web.
+		&lt;/p&gt;
+		&lt;ol&gt;
+			&lt;li&gt;Websites.&lt;/li&gt;
+			&lt;li&gt;Blogs.&lt;/li&gt;
+			&lt;li&gt;Microblogs.&lt;/li&gt;
+			&lt;li&gt;Social networks. (e.g. Facebook).&lt;/li&gt;
+		&lt;/ol&gt;
+		&lt;p&gt;
+		 For each of these methods, I will assess their suitability for their use in a certain situation, by a certain user group.
+		&lt;/p&gt;
+		&lt;/div&gt;
+	</page-body>
+</academic-paper>

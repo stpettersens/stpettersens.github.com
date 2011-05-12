@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<academic-paper xmlns:f="/a/proper/namespace/here">
+	<page-body>
+		&lt;div id="page"&gt;
+		&lt;h2&gt;References&lt;/h2&gt;
+		&lt;ul id="ref"&gt;
+			 &lt;li&gt;
+			 Blood, R. (December 2004) How blogging software reshapes the online community.  &lt;em&gt;Communications of the ACM – The Blogosphere.&lt;/em&gt; 47 (12) [Online]. &lt;br/&gt;
+			 Available from: 
+			 &lt;a href="http://portal.acm.org/citation.cfm?id=1035134.1035165">
+			 http://portal.acm.org/citation.cfm?id=1035134.1035165&lt;/a&gt; [Accessed 9th May 2011].
+			 &lt;/li&gt;
+			 &lt;li&gt;
+			 Carlson, N. (March 2010) At Last – The Full Story of How Facebook Was Founded. &lt;em&gt;Business Insider.&lt;/em&gt; [Online]. &lt;br/&gt;
+			 Available from: 
+			 &lt;a href="http://www.businessinsider.com/how-facebook-was-founded-2010-3">
+			 http://www.businessinsider.com/how-facebook-was-founded-2010-3&lt;/a&gt; [Accessed 10th May 2011].
+			 &lt;/li&gt;
+			 &lt;li&gt;
+			 Cohen, P. (February 2008) At Harvard, a Proposal to Publish Free on Web.&lt;em&gt;The New York Times.&lt;/em&gt; [Online]. &lt;br/&gt; Available from: 
+			 &lt;a href="http://msl1.mit.edu/furdlog/docs/nytimes/2008-02-12_nytimes_open_access_harvard.pdf">
+			 http://msl1.mit.edu/furdlog/docs/nytimes/2008-02-12_nytimes_open_access_harvard.pdf&lt;/a&gt; [Accessed 10th May 2011].
+			 &lt;/li&gt;
+			 &lt;li&gt;
+			 Dwyer, C., Hiltz, S. &amp; Passerini, K. (2007) Trust and Privacy Concern within Social Networking Sites:  A Comparison of Facebook and MySpace. &lt;em&gt;AMCIS 2007 Proceedings.&lt;/em&gt; [Online]. &lt;br/&gt;
+			 Available from: 
+			 &lt;a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.148.9388&amp;rep=rep1&amp;type=pdf">
+			 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.148.9388&amp;rep=rep1&amp;type=pdf&lt;/a&gt; [Accessed 5th May 2011].
+			 &lt;/li&gt;
+			 &lt;li&gt;
+			 Java, A., Song, X., Finin, T. &amp; Tseng, B. (2007) Why We Twitter: Understanding Micro blogging Usage and Communities. &lt;em&gt;Proceedings of the 9th WebKDD and 1st SNA-KDD 2007 workshop on Web mining and social network analysis.&lt;/em&gt; [Online]. &lt;br/&gt;
+			 Available from: 
+			 &lt;a href="http://portal.acm.org/citation.cfm?id=1348556">
+			 http://portal.acm.org/citation.cfm?id=1348556&lt;/a&gt; [Accessed 5th May 2011].
+			 &lt;/li&gt;
+			 &lt;li&gt;
+			 Jungherr, A. (2009) The Digiactive Guide to Twittter for Activism. &lt;em&gt;Digiactive.com, Creative Commons Licensed e-Book.&lt;/em&gt; [Online]. &lt;br/&gt;
+			 Available from: 
+			 &lt;a href="http://www.tavaana.org/uploads/2071502000341267128282670/files/Guide to Twitter for Activism - PDF - English.pdf">
+			 http://www.tavaana.org/uploads/2071502000341267128282670/files/Guide to Twitter for Activism - PDF - English.pdf&lt;/a&gt; [Accessed 7th May 2011].
+			 &lt;/li&gt;
+			 &lt;li&gt;
+			 Lloyd, I. (2008) &lt;em&gt;Build your own web site the right way using HTML &amp; CSS. 2nd Edition.&lt;/em&gt; Collingwood, SitePoint Pty Ltd.
+			 &lt;/li&gt;
+			 &lt;li&gt;
+			 Oglens. (February 2011) What is the advantage of a blog over a traditional web site. [Online]. &lt;br/&gt;
+			 Available from: 
+			 &lt;a href="http://oglens.com/what-is-the-advantage-of-a-blog-over-a-traditional-web-site">
+			 http://oglens.com/what-is-the-advantage-of-a-blog-over-a-traditional-web-site&lt;/a&gt; [Accessed 11th May 2011].
+			 &lt;/li&gt;
+			 &lt;li&gt;
+			 Viswanath, B., Mislove, A. &amp; Gummadi, K. (2009) On the evolution of user interaction in Facebook. &lt;em&gt;WOSN ’09: Proceedings of the 2nd ACM workshop on online social networks.&lt;/em&gt; [Online]. &lt;br/&gt;
+			 Available from: 
+			 &lt;a href="http://portal.acm.org/citation.cfm?id=1592675">
+			 http://portal.acm.org/citation.cfm?id=1592675&lt;/a&gt; [Accessed 7th May 2011].
+			 &lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/div&gt;
+	</page-body>
+</academic-paper>
