@@ -1,0 +1,138 @@
+/*
+Stylesheet for Pepinot 86 project website.
+Copyright (c) 2011 Sam Saint-Pettersen.
+*/
+
+/* Import 'Fredericka the Great' font from Google Web fonts. */
+@import url(http://fonts.googleapis.com/css?family=Fredericka+the+Great);
+
+body {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 10pt;	
+}
+.largeText, h2, h4 {
+	font-family: 'Fredericka the Great', cursive;
+	font-size: 24pt;
+}
+.italic
+{
+	font-style: italic;
+}
+nav, #preview {
+	font-family: 'Fredericka the Great', cursive;
+	font-size: 24pt;
+}
+#preview {
+	margin-left: 5em;
+}
+article {
+	width: 45em;
+	margin-top: 3em;
+	margin: auto;
+	text-align: left;
+}
+footer {
+	margin-top: 5em;
+	font-size: 8pt;
+}
+h4 {
+	font-weight: normal; /* For Safari and other browsers where the text appears bold otherwise. */
+	font-size: 20pt;
+}
+#wrapper {
+	margin-top: 2em;
+	text-align: center;
+}
+#forkMe {
+	position: absolute;
+	top: 0em;
+	right: 0em;
+	border: 0em;
+}
+#repo
+{
+	width: 34em;
+	padding: 0.5em;
+	font-size: 10pt;
+	background-color: #000000;
+	color: #FFFFFF;
+	margin: 0.2em;
+}
+a {
+	color: #AA0000;
+	text-decoration: none;
+}
+a:hover {
+	color: #000000;
+}
+.extern
+{
+	color: #AA0000;
+}
+abbr
+{
+	border-bottom: 1px dotted; /* For Chrome and others which do not underline abbreviations by default. */
+}
+#copy
+{
+	margin-left: 34em;
+	font-size: 8pt;
+	text-align: right;
+}
+#like
+{
+	margin-left: 20em;
+}
+#logo
+{
+	height: 200px;
+}
+#s3slider { 
+   width: 610px; /* important to be same as image width */ 
+   height: 420px; /* important to be same as image height */
+   position: relative; /* important */
+   overflow: hidden; /* important */
+   margin: auto;
+}
+
+#s3sliderContent {
+   width: 400px; /* important to be same as image width or wider */
+   position: absolute; /* important */
+   top: 0; /* important */
+   margin-left: 0; /* important */
+}
+
+.s3sliderImage {
+   float: left; /* important */
+   position: relative; /* important */
+   display: none; /* important */
+}
+
+.s3sliderImage span {
+   position: absolute; /* important */
+   left: 0;
+   font: 10px/15px Arial, Helvetica, sans-serif;
+   padding: 10px 13px;
+   width: 374px;
+   background-color: #000;
+   filter: alpha(opacity=70); /* here you can set the opacity of box with text */
+   -moz-opacity: 0.7; /* here you can set the opacity of box with text */
+   -khtml-opacity: 0.7; /* here you can set the opacity of box with text */
+   opacity: 0.7; /* here you can set the opacity of box with text */
+   color: #fff;
+   display: none; /* important */
+   bottom: 0;
+}
+
+.clear {
+   clear: both;
+}
+li
+{
+	list-style-type: none;
+}
+#doc
+{
+	padding-left: 50em;
+	margin-left: auto;
+}
